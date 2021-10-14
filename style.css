@@ -1,0 +1,25 @@
+body {
+    text-align:center;
+    background:linear-gradient(#71FFFF 0%, #0000FF 100%);
+    background-repeat:no-repeat;
+}
+
+h1 {
+    text-shadow:2px 2px #0c0c0c;
+    font-size:20px;
+}
+
+p {
+ padding: 20px;
+ font-size: 16px;
+ text-align: center;   
+}
+
+.line {
+    padding-top:10px;
+}
+
+img {
+    width:500px;
+    height:550px;
+}
